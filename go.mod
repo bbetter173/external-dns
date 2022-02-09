@@ -9,6 +9,8 @@ require (
 	github.com/Azure/go-autorest/autorest v0.11.21
 	github.com/Azure/go-autorest/autorest/adal v0.9.16
 	github.com/Azure/go-autorest/autorest/to v0.4.0
+	github.com/DNSMadeEasy/dme-go-client v1.10.11
+	github.com/StackExchange/dnscontrol v0.2.8
 	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.1.1
 	github.com/StackExchange/dnscontrol v0.2.8
 	github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38 // indirect
